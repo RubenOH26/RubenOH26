@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/RubenOH26/RubenOH26/blob/main/Banner%20para%20YouTube%20Tecnolog%C3%ADa%20Moderno%20Azul_ROH.png?raw=true" alt="Banner de Rubén QA Engineer" width="100%">
+</p>
 # 👋 Hola, soy Rubén  
 **QA Engineer | Enfoque en calidad, automatización y mejora continua**
 
