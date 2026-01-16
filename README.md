@@ -16,4 +16,5 @@ Soy un profesional orientado al detalle, con experiencia en pruebas funcionales,
 
 ## 📫 Contacto
 **Email:** ingroh654@gmail.com
+
 **LinkedIn:** www.linkedin.com/in/ruben-ortiz26
